@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea
+out
+gent
+*.iml
+
+### File ###
+/.apt_generated
+/.classpath
+/.factorypath
+/.project
+/.settings
+/.springBeans
+/.sts4-cache
+#/.gitignore
+
+### Pakage ###
+/build/
+/logs/
+/target/
